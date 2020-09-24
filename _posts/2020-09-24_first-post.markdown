@@ -13,11 +13,9 @@ author: Reza
 description: Markdown summary with different options
 ---
 
-##Hello world!
+## Hello world!
 
-<p>My first post won't be anything special. I'll try to document my ideas, things I learned, etc.
+I decided to start this blog to document my ideas and things that I'm learning along the way. I don't know how often I would be able to post my I try to be consistent. This is my first post and I won't discuss anything special. 
 
 Stay tuned!
-
-</p>
 
