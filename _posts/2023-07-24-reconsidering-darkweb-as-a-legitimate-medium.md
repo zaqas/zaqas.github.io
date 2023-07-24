@@ -4,6 +4,7 @@ title: "Reconsidering Darkweb as a Legitimate Medium"
 layout: post
 date: 2023-07-24
 image: /assets/image/markdown.jpg
+headerImage: false
 tag:
 
 - Tor
@@ -11,6 +12,9 @@ tag:
 - UNICEF
 - Encryption
 - Abuse
+  
+category: blog
+author: Reza
 ---
 
 Recently, I decided to surf the clearnet and try to actively look for content which should not be accessible to the public. Usually, one argument made against Tor, is that this tool is specifically used by criminals to divulge questionable items which in some regions may even be considered illegal. Although, due to traditional customs of each regions, law and interpretations of it differs. What remains consistent among different nations, is that we must aim to protect certain groups of entities which are vulnerable and might even lack any understanding of their rights.
