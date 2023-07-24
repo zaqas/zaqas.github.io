@@ -12,6 +12,7 @@ tag:
 - UNICEF
 - Encryption
 - Abuse
+- Anonymity
   
 category: blog
 author: Reza
@@ -22,7 +23,7 @@ Recently, I decided to surf the clearnet and try to actively look for content wh
 
 Certainly, it might be true that there have been criminals at some point that have used Tor to conduct their illicit activities. It may even be true, that today some are continuing to use Tor for this exact purpose. Unfortunately due to lack extensive research in this area, we do not know precisely percentage of illicit materials on dark web. But, at the same time it could be argued that clearnet, may be used for the same type of activities. It is commonly known that criminals are publicly trading credentials of users on Discord channels and telegram groups [0]. The same questionable items are being traded on clearnet forums, but there is a common myth surrounding the dark web which keeps growing. For instance, it has been written that "Much of what occurs on the Dark Web is illegal" [1], but when we look at the situation objectively, we observe something entirely different.
 
-In a study by Jardine et al. (2022), after measuring activities, it was reported that only 6.7% of daily Tor users are using it for malicious purposes, and most of them are users from "free countries". Banning Tor and attack the network is not a solution since many honest users rely on it to protect their communications and themselves. There are various legitimate use cases for Tor. More about this can be read on their FAQ page [2].
+In a study by Jardine et al. (2020), after measuring activities, it was reported that only 6.7% of daily Tor users are using it for malicious purposes, and most of them are users from "free countries". Banning Tor and attack the network is not a solution since many honest users rely on it to protect their communications and themselves. There are various legitimate use cases for Tor. More about this can be read on their FAQ page [2].
 
 A major counter-argument against Tor and dark web, is child exploitation and abuse. Children, in many cases may not be even aware that they have rights in certain contexts. In many countries, access to the Internet is limited and due to traditional customs, it may be accepted in some regions which are not yet modernized to mistreat children due to lack of education. By allowing them to use Tor, we could educate them so they learn their rights and we might even be able to offer them help in some scenarios by publicizing malicious events.
                                                                                                                                                                                      
