@@ -32,8 +32,8 @@ In today's climate, AI is being used mostly as a selling point. It is not adopte
 
 As I already mentioned, neural networks are inefficient, and this is due to multiple reasons, in my opinion. When faced with choosing the hyperparameters, most practitioners tune the parameters either by following their instinct [3] or using computationally expensive approaches like grid search. Grid search is simply a brute-force approach to trying all possible parameters to observe what gives the best performance. The computational cost is immense, and the carbon footprint of deep learning is unacceptable [4]. I remember having a discussion and bringing up this point, and he was using the no-free lunch theorem as an argument. This has nothing to do with the NFL; it is simply an inelegant approach.
 
-AI in the research community
----
+### AI in the research community
+
 It is interesting to me that AI is being used in the research community besides the industry because the staple of science is reproducibility, and numerous papers cannot be reproduced [5, 6, 7]. When faced with the question of why the model performs in this manner, they say it is due to a lack of explainability, which is an inherent feature. Models cannot be explained, which makes AI a strange approach to be used in the research community, as they are not able to explain why the models work or not. Moreover, tuning the parameters is more aligned with alchemy since different architectures are tried until the performance is considered acceptable. Nowadays, we consider alchemy a pseudo-science, but somehow, when it comes to AI, we turn a blind eye.
 
 ### Privacy and ethics
@@ -42,7 +42,7 @@ It is interesting to me that AI is being used in the research community besides 
 Besides the computational cost, there is a cost in terms of privacy. In Europe, due to GDPR, at least "on the surface," it seems that citizens are protected and have rights to protect their data. But in developing countries, many would simply trade intimate and personal information micro jobs websites. Moreover, for annotation, companies rely on those individuals to help them. The fee received by each individual for their work or data is unacceptable. Besides technical solutions, we need regulations to limit what types of data can be processed.
 
 
-### Final remark
+### Final remarks
 
 We used to think about the problems we faced and find innovative and creative solutions. For instance, type inference based on the Hindley-Milner type system identifies types without using any form of AI. I cannot imagine an individual today reaching the same endpoint without relying on AI at some point in the production process. We have become too dependent on machines, and we still have not defined safety regulations. Imagine the following scenario: We give the objective of reducing harmful agents to the environment in terms of climate change to a machine based on a few factors we define. The machines might take actions without considering the consequences of their actions. They might decide to cut the electricity in a region, putting lives at risk. The risks are immense, and we have not thought this through.
 
