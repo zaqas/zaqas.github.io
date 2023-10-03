@@ -9,8 +9,8 @@ headerImage: false
 tag:
 
 - privacy
-- anonymity
 - gdpr
+- anonymity
 
   
 category: blog
